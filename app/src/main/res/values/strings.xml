@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gerador de Número Randômico</string>
+    <string name="random_heading"> "Número randômico entre 0 e %1d." </string>
+</resources>
